@@ -1,0 +1,11 @@
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+python-dotenv
+ipykernel
+langchain-huggingface
+sentence-transformers
+faiss-cpu
+langchain-google-genai
+youtube-transcript-api
